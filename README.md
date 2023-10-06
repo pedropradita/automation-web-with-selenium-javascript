@@ -11,5 +11,5 @@ To run test
 2. mentioned cases = npm test -- --grep @test
 
 To see result
-1.  go to Payever/mochawesome-report
+1.  go to /mochawesome-report
 2.  click mochawesome.html
