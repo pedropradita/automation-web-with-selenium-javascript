@@ -1,0 +1,19 @@
+{
+  "name": "payever",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "selenium-webdriver": "^4.11.1"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
